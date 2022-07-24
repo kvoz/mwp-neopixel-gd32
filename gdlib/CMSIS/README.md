@@ -1,0 +1,1 @@
+Place here core headers from Firmware\CMSIS, eg. core_cm3.h, core_cmFunc.h, core_cmInstr.h
